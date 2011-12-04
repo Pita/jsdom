@@ -1,5 +1,5 @@
 {
-    "name": "jsdom",
+    "name": "jsdom-nocontextifiy",
     "version": "0.2.10",
     "description": "A javascript implementation of the W3C DOM",
     "keywords": [
